@@ -1,0 +1,20 @@
+.pets-list {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.pet {
+  list-style: none;
+}
+.card {
+  width: 200px;
+  height: fit-content;
+  border: 1px solid black;
+  border-radius: 1rem;
+  padding-block: 1rem;
+  padding-inline: 1rem;
+}
+
+ul {
+  padding: 0;
+}
